@@ -1,9 +1,25 @@
 <h1 align="center">Hi, I'm Adya Jasola 👋</h1>
 
 <p align="center">
-🎓 <b>Computer Science @ University of Illinois Chicago (UIC)</b>  
-💡 Passionate about <b>Data Science, Artificial Intelligence, and Scalable Software Systems</b>  
+🎓 <b>Computer Science @ University of Illinois Chicago (UIC)</b><br>
+💡 <b>Data Science • Artificial Intelligence • Scalable Software Systems</b><br>
 📍 Chicago, IL &nbsp;|&nbsp; <a href="mailto:adyajasola@gmail.com">adyajasola@gmail.com</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/adyajasola">LinkedIn</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white" />
 </p>
 
 ---
@@ -11,18 +27,6 @@
 ### 🧠 About Me
 I’m a Computer Science student at UIC who enjoys building **data-driven, analytical, and scalable applications**.  
 I love connecting the dots between **AI, visualization, and real-world decision systems** — whether that’s predicting demand, optimizing prices, or making sense of complex datasets.
-
----
-
-### ⚙️ Tech Stack
-| Category | Tools & Frameworks |
-|-----------|--------------------|
-| **Languages** | Python • C++ • Java • C • R • F# |
-| **Web Dev** | HTML • CSS • JavaScript • React.js • Flask • Dash |
-| **Data & ML** | Pandas • scikit-learn • Prophet • MLflow |
-| **Databases** | PostgreSQL • SQLite • SQLAlchemy |
-| **Cloud & DevOps** | AWS (S3, RDS, Elastic Beanstalk, CloudWatch) • Docker • GitHub Actions (CI/CD) |
-| **Core Concepts** | REST APIs • OOP • Testing (pytest) • Agile (Scrum) |
 
 ---
 
@@ -101,15 +105,4 @@ Published by **Bloomsbury**. ISBN 978-93-00000-00-0.
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
-</p>
-
----
-
-<p align="center">💡 <i>“Turning data into decisions through design and code.”</i></p>
+<p align="center"><i>💡 “Turning data into decisions through design and code.”</i></p>
